@@ -1,16 +1,13 @@
 body {
     margin: 0 auto;
     max-width: 1024px;
-    background-color: rgb(250, 248, 226);
+    background-color: rgb(228, 253, 253);
 }
 
 section {
     margin: 3em auto;
     width: 70%;
     text-align: center;
-    border: 5px solid blueviolet;
-    border-radius: 25px; 
-    background-color: rgb(228, 253, 253);
 }
 
 h1 {
@@ -18,7 +15,7 @@ h1 {
 }
 
 h3 {
-    color: rgb(192, 64, 192);
+    color: rgb(6, 189, 180);
 }
 
 .show-draw-message {
