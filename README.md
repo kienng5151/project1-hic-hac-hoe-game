@@ -1,4 +1,3 @@
-# project1-hic-hac-hoe-game
 # Project 1: Tic Tac Toe Game
 
 - Current player (or the first player who will mark the box with "hic") to start first:\
